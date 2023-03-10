@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="640" maxImageHeight="640" textColor="0xFFFFFF" frameColor="0xF5FFF5" frameWidth="8" stagePadding="40" thumbnailColumns="3" thumbnailRows="3" navPosition="left" title="" enableRightClickOpen="false" backgroundImagePath="" imagePath="images/" thumbPath="thumb/">
+<image>
+<filename>anillos_01.jpg</filename>
+<caption>anillos 01</caption>
+</image>
+<image>
+<filename>anillos_02.jpg</filename>
+<caption>anillos 02</caption>
+</image>
+<image>
+<filename>anillos_03.jpg</filename>
+<caption>anillos 03</caption>
+</image>
+<image>
+<filename>anillos_04.jpg</filename>
+<caption>anillos 04</caption>
+</image>
+<image>
+<filename>anillos_05.jpg</filename>
+<caption>anillos 05</caption>
+</image>
+<image>
+<filename>anillos_06.jpg</filename>
+<caption>anillos 06</caption>
+</image>
+</simpleviewerGallery>

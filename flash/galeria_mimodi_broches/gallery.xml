@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="640" maxImageHeight="640" textColor="0xFFFFFF" frameColor="0xF5FFF5" frameWidth="8" stagePadding="40" thumbnailColumns="3" thumbnailRows="3" navPosition="left" title="" enableRightClickOpen="false" backgroundImagePath="" imagePath="images/" thumbPath="thumb/">
+<image>
+<filename>broches_01.jpg</filename>
+<caption>broches 01</caption>
+</image>
+<image>
+<filename>broches_02.jpg</filename>
+<caption>broches 02</caption>
+</image>
+<image>
+<filename>broches_03.jpg</filename>
+<caption>broches 03</caption>
+</image>
+<image>
+<filename>broches_04.jpg</filename>
+<caption>broches 04</caption>
+</image>
+<image>
+<filename>broches_05.jpg</filename>
+<caption>broches 05</caption>
+</image>
+<image>
+<filename>broches_06.jpg</filename>
+<caption>broches 06</caption>
+</image>
+<image>
+<filename>broches_07.jpg</filename>
+<caption>broches 07</caption>
+</image>
+</simpleviewerGallery>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="640" maxImageHeight="640" textColor="0xFFFFFF" frameColor="0xF5FFF5" frameWidth="8" stagePadding="40" thumbnailColumns="3" thumbnailRows="3" navPosition="left" title="" enableRightClickOpen="false" backgroundImagePath="" imagePath="images/" thumbPath="thumb/">
+<image>
+<filename>ganchos_01.jpg</filename>
+<caption>ganchos 01</caption>
+</image>
+<image>
+<filename>ganchos_02.jpg</filename>
+<caption>ganchos 02</caption>
+</image>
+<image>
+<filename>ganchos_03.jpg</filename>
+<caption>ganchos 03</caption>
+</image>
+<image>
+<filename>ganchos_04.jpg</filename>
+<caption>ganchos 04</caption>
+</image>
+<image>
+<filename>ganchos_05.jpg</filename>
+<caption>ganchos 05</caption>
+</image>
+<image>
+<filename>ganchos_06.jpg</filename>
+<caption>ganchos 06</caption>
+</image>
+<image>
+<filename>ganchos_07.jpg</filename>
+<caption>ganchos 07</caption>
+</image>
+<image>
+<filename>ganchos_08.jpg</filename>
+<caption>ganchos 08</caption>
+</image>
+</simpleviewerGallery>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="640" maxImageHeight="640" textColor="0xFFFFFF" frameColor="0xF5FFF5" frameWidth="8" stagePadding="40" thumbnailColumns="3" thumbnailRows="3" navPosition="left" title="" enableRightClickOpen="false" backgroundImagePath="" imagePath="images/" thumbPath="thumb/">
+<image>
+<filename>diademas_01.jpg</filename>
+<caption>diademas 01</caption>
+</image>
+<image>
+<filename>diademas_02.jpg</filename>
+<caption>diademas 02</caption>
+</image>
+<image>
+<filename>diademas_03.jpg</filename>
+<caption>diademas 03</caption>
+</image>
+<image>
+<filename>diademas_04.jpg</filename>
+<caption>diademas 04</caption>
+</image>
+<image>
+<filename>diademas_05.jpg</filename>
+<caption>diademas 05</caption>
+</image>
+<image>
+<filename>diademas_06.jpg</filename>
+<caption>diademas 06</caption>
+</image>
+<image>
+<filename>diademas_07.jpg</filename>
+<caption>diademas 07</caption>
+</image>
+<image>
+<filename>diademas_08.jpg</filename>
+<caption>diademas 08</caption>
+</image>
+</simpleviewerGallery>

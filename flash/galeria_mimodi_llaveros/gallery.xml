@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="640" maxImageHeight="640" textColor="0xFFFFFF" frameColor="0xF5FFF5" frameWidth="8" stagePadding="40" thumbnailColumns="3" thumbnailRows="3" navPosition="left" title="" enableRightClickOpen="false" backgroundImagePath="" imagePath="images/" thumbPath="thumb/">
+<image>
+<filename>llaveros_01.jpg</filename>
+<caption>llaveros 01</caption>
+</image>
+<image>
+<filename>llaveros_02.jpg</filename>
+<caption>llaveros 02</caption>
+</image>
+<image>
+<filename>llaveros_03.jpg</filename>
+<caption>llaveros 03</caption>
+</image>
+<image>
+<filename>llaveros_04.jpg</filename>
+<caption>llaveros 04</caption>
+</image>
+<image>
+<filename>llaveros_05.jpg</filename>
+<caption>llaveros 05</caption>
+</image>
+</simpleviewerGallery>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="640" maxImageHeight="640" textColor="0xFFFFFF" frameColor="0xF5FFF5" frameWidth="8" stagePadding="40" thumbnailColumns="3" thumbnailRows="3" navPosition="left" title="" enableRightClickOpen="false" backgroundImagePath="" imagePath="images/" thumbPath="thumb/">
+<image>
+<filename>collares_01.jpg</filename>
+<caption>collares 01</caption>
+</image>
+<image>
+<filename>collares_02.jpg</filename>
+<caption>collares 02</caption>
+</image>
+<image>
+<filename>collares_03.jpg</filename>
+<caption>collares 03</caption>
+</image>
+<image>
+<filename>collares_04.jpg</filename>
+<caption>collares 04</caption>
+</image>
+<image>
+<filename>collares_05.jpg</filename>
+<caption>collares 05</caption>
+</image>
+<image>
+<filename>collares_06.jpg</filename>
+<caption>collares 06</caption>
+</image>
+<image>
+<filename>collares_07.jpg</filename>
+<caption>collares 07</caption>
+</image>
+<image>
+<filename>collares_08.jpg</filename>
+<caption>collares 08</caption>
+</image>
+</simpleviewerGallery>

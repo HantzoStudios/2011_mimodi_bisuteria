@@ -1,0 +1,34 @@
+@charset "utf-8";
+
+A:link {
+	text-decoration: none;
+	color: #8000FF;
+}
+A:visited {text-decoration: none}
+A:active {text-decoration: none}
+A:hover {text-decoration: underline overline; color: red;}
+.fondo {
+	position: absolute;
+	margin: 0px;
+	padding: 0px;
+}
+.divpadre {
+	position: relative;
+	margin-right: auto;
+	margin-left: auto;
+	width: 1000px;
+	height: 456px;
+}
+.divexclavo {
+	position: absolute;
+	left: 19px;
+	top: -16px;
+	width: 198px;
+	height: 62px;
+}
+table {
+	position: relative;
+}
+body {
+	background-color: #000;
+}
